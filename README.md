@@ -73,3 +73,4 @@ Dataset yang digunakan berasal dari **E-Commerce Public Dataset** yang berisi in
 **Nama:** Sifa Mutiasya Hendayana Puteri
 **Email:** [sifamutiasya@gmail.com](mailto:sifamutiasya@gmail.com)
 **ID Dicoding:** CDCC222D6X0835
+link Streamlit : https://dashboard-e-commerce-dicoding26.streamlit.app/
